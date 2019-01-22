@@ -127,6 +127,13 @@ border-radius: 50%;
 width: 35%;
 }
 
+.circular-conor {
+  float: left;
+  margin-right: 30px;
+width: 40%;
+border-radius: 50%;
+}
+
 .butn {
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
